@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CoffeeApp</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="close">Close</string>
+    <string name="welcome">Welcome</string>
+    <string name="address">Enter your address</string>
+    <string name="slide">Double click to continue</string>
+    <string name="select">Select coffee</string>
+    <string name="finalStep">Final Step</string>
+    <string name="yourAd">Your Address is:</string>
+    <string name="longToFinish">Long Press to Finish Order</string>
+    <string name="lastStr">Your will drink your coffee in 30 minutes. If you want you can vote this coffee below.</string>
+    <string name="vote">VOTE</string>
+    <string name="firstText">Welcome to Coffee Ordering App, Now You Can Start with Registering</string>
+    <string name="regName">Name</string>
+    <string name="regSur">Surname</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "coffees": [
+    {
+      "name" : "Brewed Coffee",
+      "price": "6.5TL",
+      "img": "c1",
+      "desc" : "Brewed coffee is made by pouring hot water onto ground coffee beans, then allowing to brew."
+    },
+    {
+      "name" : "White Mocha Coffee",
+      "price": "12.5TL",
+      "img": "c2",
+      "desc" : "This is a white chocolate version of a classic mocha."
+    },
+    {
+      "name" : "Cappuccino",
+      "price": "10TL",
+      "img": "c3",
+      "desc" : "A type of coffee made with espresso and milk that has been frothed up with pressurized steam"
+    },
+    {
+      "name" : "Tea",
+      "price": "4TL",
+      "img": "c4",
+      "desc" : "A hot drink made by infusing the dried crushed leaves of the tea plant in boiling water."
+    }
+
+  ]
+}
